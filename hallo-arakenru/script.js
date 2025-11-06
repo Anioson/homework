@@ -1,1 +1,0 @@
-alert('Press ok if you like my web')
